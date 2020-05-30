@@ -1,0 +1,14 @@
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\bin\Debug\ACO.exe.config
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\bin\Debug\ACO.exe
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\bin\Debug\ACO.pdb
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\obj\Debug\ACO.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\obj\Debug\ACO.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\obj\Debug\ACO.exe
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACO\ACO\obj\Debug\ACO.pdb
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\bin\Debug\ACO.exe.config
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\bin\Debug\ACO.exe
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\bin\Debug\ACO.pdb
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\obj\Debug\ACO.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\obj\Debug\ACO.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\obj\Debug\ACO.exe
+C:\Users\Кирилл\Desktop\Курсач ДО\Program samples\ACOv2\ACO\obj\Debug\ACO.pdb
